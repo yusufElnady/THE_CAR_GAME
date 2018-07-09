@@ -1,5 +1,7 @@
 # THE_CAR_GAME
 
+Latest version: 1.2.1
+
 This compressed file contains the windows and linux builds for the game. Please note that it won't work on 32-bit computers. 
 To download the game, click on the "game.zip" link in the repo's log, and after it locates you to the webpage where it says 
 "stored with lfs" in the middle on the left, press download on the right, and then you should be good to go.
