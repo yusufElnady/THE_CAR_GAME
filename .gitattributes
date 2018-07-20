@@ -4,3 +4,4 @@ game_1.2.1_Compressed.zip filter=lfs diff=lfs merge=lfs -text
 game.zip filter=lfs diff=lfs merge=lfs -text
 game_1.1_Compressed.zip filter=lfs diff=lfs merge=lfs -text
 >>>>>>> bac887130fb809ebedba0a2534b234aeefb397b7
+game_1.2.2_Compressed.zip filter=lfs diff=lfs merge=lfs -text
